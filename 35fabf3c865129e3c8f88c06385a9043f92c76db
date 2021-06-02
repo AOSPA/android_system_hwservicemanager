@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f1fcdceb_c1d4a3bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2021-06-02T12:51:37Z",
+      "side": 1,
+      "message": "these hints seem to be supported, make sure there\u0027s no log spam and that camera still opens fine",
+      "revId": "35fabf3c865129e3c8f88c06385a9043f92c76db",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
