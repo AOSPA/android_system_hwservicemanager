@@ -16,6 +16,23 @@
       "message": "these hints seem to be supported, make sure there\u0027s no log spam and that camera still opens fine",
       "revId": "35fabf3c865129e3c8f88c06385a9043f92c76db",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f45a6938_65e48ae3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000488
+      },
+      "writtenOn": "2021-06-03T11:21:12Z",
+      "side": 1,
+      "message": "lgtm",
+      "revId": "35fabf3c865129e3c8f88c06385a9043f92c76db",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
